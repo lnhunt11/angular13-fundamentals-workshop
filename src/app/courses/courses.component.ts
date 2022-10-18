@@ -13,6 +13,13 @@ export class CoursesComponent implements OnInit {
       description: 'Learn the fundamentals of Angular 13',
       percentComplete: 26,
       favorite: true
+    },
+    {
+      id: 2,
+      title: 'HardParts',
+      description: 'Learn the fundamentals with Will',
+      percentComplete: 26,
+      favorite: true
     }
   ];
 
